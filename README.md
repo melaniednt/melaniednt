@@ -12,7 +12,7 @@ However, I now feel the need to explore new horizons by immersing myself in the 
 
 Feel free to explore my projects on Github and reach out to me for any collaboration or mutual learning opportunities in the exciting field of artificial intelligence!
 
-### Linkedin link: https://www.linkedin.com/in/m%C3%A9lanie-danet/
+Linkedin link: https://www.linkedin.com/in/m%C3%A9lanie-danet/
 
 
 <!--
